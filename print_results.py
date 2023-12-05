@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # */AIPND-revision/intropyproject-classify-pet-images/print_results.py
 #                                                                             
-# PROGRAMMER: Obinna Jude Ugwuododo
+# PROGRAMMER: Obinna Jude
 # DATE CREATED:7/11/2023
 # REVISED DATE: 
 # PURPOSE: Create a function print_results that prints the results statistics

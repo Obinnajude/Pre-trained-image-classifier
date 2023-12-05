@@ -3,7 +3,7 @@
 # */AIPND-revision/intropyproject-classify-pet-images/check_images.py
 #
 # TODO 0: Add your information below for Programmer & Date Created.                                                                             
-# PROGRAMMER: Obinna Jude Ugwuododo
+# PROGRAMMER: Obinna Jude
 # DATE CREATED:  7/10/2023                                
 # REVISED DATE: 
 # PURPOSE: Classifies pet images using a pretrained CNN model, compares these
